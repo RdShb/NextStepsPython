@@ -1,9 +1,9 @@
 import os
-import Ejercicio1
-import Ejercicio2
-import Ejercicio3
-import Ejercicio4
-import Ejercicio5
+import Ex1
+import Ex2
+import Ex3
+import Ex4
+import Ex5
 import Ejercicio9
 import Ejercicio8
 import Ejercicio7
