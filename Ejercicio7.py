@@ -1,3 +1,4 @@
-palabra = input("Escriba una palabra: ")
-for letra in palabra:
-    print(letra, end="\n")
+def main():
+    palabra = input("Escriba una palabra: ")
+    for letra in palabra:
+        print(letra, end="\n")
