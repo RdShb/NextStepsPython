@@ -1,7 +1,7 @@
 def main():
     lista = []
     nuevalista = []
-    n = int(input("Cuantos palabras quiere introducir en la lista? "))
+    n = int(input("Cuantos numeros quiere introducir en la lista? "))
     
     for i in range(0, n):
         ele = int(input())
@@ -9,6 +9,6 @@ def main():
     for numero in lista:
         if numero % 3 == 0:
             nuevalista.append(numero)
-    print(lista)
+    #print(lista)
     print(nuevalista)
 

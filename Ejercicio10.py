@@ -9,5 +9,5 @@ def main():
     for palabra in lista:
         if "a" in palabra or "e" in palabra or "i" in palabra or "o" in palabra or "u" in palabra:
             nuevalista.append(palabra)
-    print(lista)
+    #print(lista)
     print(nuevalista)
