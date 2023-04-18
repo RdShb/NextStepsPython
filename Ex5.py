@@ -11,5 +11,6 @@ def principal():
     reverseString = phrase(userInput)
 
     print("Reversed string:", reverseString)
+
 if __name__=="__main__":
-   principal()
+  principal()

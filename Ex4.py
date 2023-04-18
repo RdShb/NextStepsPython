@@ -31,4 +31,4 @@ def principal():
 
     print(f"{hours}:{minutes}")
 if __name__=="__main__":
-   principal()
+  principal()
