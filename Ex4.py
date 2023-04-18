@@ -30,3 +30,5 @@ def principal():
             minutes = "0" + str(minutes)
 
     print(f"{hours}:{minutes}")
+if __name__=="__main__":
+   principal()

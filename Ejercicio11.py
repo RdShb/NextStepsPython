@@ -12,3 +12,5 @@ def main():
     #print(lista)
     print(nuevalista)
 
+if __name__=="__main__":
+   main()

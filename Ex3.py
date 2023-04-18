@@ -11,3 +11,5 @@ def principal():
             total += 1
         i += 1
     print("Total Number of Words in this String = ", total)
+if __name__=="__main__":
+   principal()

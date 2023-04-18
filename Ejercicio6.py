@@ -5,3 +5,5 @@ def main():
     for i in range(n):
         total = total + i
     print(total)
+if __name__=="__main__":
+   main()

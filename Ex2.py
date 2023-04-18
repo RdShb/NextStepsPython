@@ -16,3 +16,5 @@ def principal():
             
     timeNow = datetime.now(timeZoneObj)
     print("Current time in {} is {}".format(userTimeZone, timeNow.time()))
+if __name__=="__main__":
+   principal()

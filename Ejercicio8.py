@@ -12,3 +12,5 @@ def main():
     print(f"Las palabras con 5 letras o menos son: {lista}")
     print(f"Las palabras con mas de 5 letras son: {nuevalista}")
 
+if __name__=="__main__":
+   main()

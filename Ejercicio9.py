@@ -7,3 +7,5 @@ def main():
         cadena = cadena[:indice] + palabrareemplazo + cadena[indice+len(palabra):]
         indice = cadena.find(palabra)
     print(cadena)
+if __name__=="__main__":
+   main()

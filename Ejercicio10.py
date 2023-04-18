@@ -11,3 +11,5 @@ def main():
             nuevalista.append(palabra)
     #print(lista)
     print(nuevalista)
+if __name__=="__main__":
+   main()
