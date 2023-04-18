@@ -14,3 +14,6 @@ def principal():
             print("Incorrect format. Please type a date with the following format: dd/mm/aaaa.")
     
     print("Your date in a new format is:", newTime)
+    
+if __name__=="__main__":
+   principal()
