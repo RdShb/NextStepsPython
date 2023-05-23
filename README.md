@@ -18,6 +18,7 @@
 
 # Colaboradores:
 Cristian Miron
+
 Lautaro Rocca
 
 ## Los programas presentes en este repositorio fueron creados para resolver los siguientes problemas:
