@@ -16,6 +16,10 @@
 - Instrucciones de ejecucion
   - `py main.py`
 
+# Colaboradores:
+Cristian Miron
+Lautaro Rocca
+
 ## Los programas presentes en este repositorio fueron creados para resolver los siguientes problemas:
 
 1. Crea un programa en Python que acepte una fecha como cadena de caracteres en formato `"dd/mm/aaaa"` y devuelva la fecha en formato `"aaaa-mm-dd"`, con el año primero. 
